@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" fill="none">
+  <rect x="2" y="6" width="48" height="48" rx="12" fill="#1C1917"/>
+  <path d="M12 36c4.5-0.75 10.5-2.25 13.5-6.75s4.5-11.25 10.5-11.25c6 0 7.5 5.25 6 12-1.5 6.75-7.5 9-16.5 9.75l-13.5-3.75z" fill="#D97706"/>
+  <text x="62" y="33" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#1C1917" letter-spacing="2">SOLE &amp; STEP</text>
+  <text x="64" y="47" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="10" font-weight="600" fill="#78716C" letter-spacing="3.5">FOOTWEAR STUDIO</text>
+</svg>

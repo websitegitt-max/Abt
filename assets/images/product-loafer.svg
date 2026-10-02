@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#422006" />
+      <stop offset="100%" stop-color="#1C1917" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="800" fill="url(#grad)" />
+  <rect width="800" height="800" fill="url(#grid)" />
+  <circle cx="640.0" cy="200.0" r="160.0" fill="#F59E0B" fill-opacity="0.12" filter="blur(40px)"/>
+  <g transform="translate(400.0, 400.0)">
+    <rect x="-140" y="-70" width="280" height="140" rx="16" fill="#000000" fill-opacity="0.25" stroke="#F59E0B" stroke-opacity="0.3" stroke-width="1"/>
+    <text text-anchor="middle" y="-12" font-family="'Playfair Display', Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" letter-spacing="1">Venetian Suede Loafer</text>
+    <text text-anchor="middle" y="22" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="13" font-weight="500" fill="#F59E0B" letter-spacing="2">BLAKE-STITCHED FLEX SOLE</text>
+    <text text-anchor="middle" y="44" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" fill="#A8A29E">[ Replace with client photo in assets/images/ ]</text>
+  </g>
+</svg>
